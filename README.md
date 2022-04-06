@@ -1,0 +1,2 @@
+# ScrapyCrawler
+Scrapy test project
